@@ -43,4 +43,23 @@ A. There are two ways to bold of italicize text.
 To italicize text, you need to add a ( * ) or ( _ ) before and after the text you want italicized.
 
 Ex.
-> This syntax ( * Slanted * ) will result in *Slanted* when I remove the the spaces between the text and (*) 
+> This syntax ( * Slanted * ) will result in *Slanted* when I remove the the spaces between the text and (*)
+> 
+> This syntax ( _ Also Slanty _ ) will result in _Also Slanty_ when the space are removed.
+>
+
+Bolding text is don in the same way, except you will use two ( * ) or ( _ ).
+
+Ex.
+> This syntax ( ** Bold and Beautiful ** ) willm result in **Bold and Beautiful** when spaces are removed.
+> 
+> This syntax ( __ No Bolder nor Beautiful-er __ ) will result in __No Bolder nor Beautiful-er__ when the spaces are removed.
+>
+Helpful Tip: According to [Markdown Guide](https://www.markdownguide.org/basic-syntax/), its is best practice to use the ( * ) because some applications get confused when there are underscores in the middle of words.
+
+### Q. How do I Create a Link in Markdown.
+
+A. Creating a link is really quite simple. Copy and paste the URL of the site you want to link to into your text editor. Then put and open parentheses before the URL, and a closed parentheses after the URL. This will result in a clickable version of the URL.
+
+Ex.
+> This syntax " ( https://github.com/ScottMarv ) " will result in (https://github.com/ScottMarv) when the spaces between the URL and parentheses are removed. 
