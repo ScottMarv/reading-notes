@@ -14,4 +14,4 @@ A place to store reading notes for Code Fellows
 
 -Not everything will be **instant gratification**. Some things take time. 
 
-[Scott's Profile (https://github.com/ScottMarv)]
+[Scott's Profile](https://github.com/ScottMarv)
