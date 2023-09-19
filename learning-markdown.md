@@ -16,6 +16,8 @@ A. According to the aforementioned website, there are many reasons as to why som
 A. To create any heading in Markdown, you have to use the pound symbol (#).  
 
 To create the largest heading possible with Markdown, you use one pound symbol followed by the text you wish to make the heading. (see the below example)
+
+Ex.
 > This syntax ( # Example Heading" ) will produce the heading below:
 >  # Example Heading
 >
@@ -28,7 +30,7 @@ Ex.
 >
 Helpful reminder (at least to me): Don't forget the space after your pound symbols. You'll just end up with a bunch of pound symbols
 
-ex
+Ex.
 > This syntax ( ####Heading Without Space) has this result:
 > 
 > ####Heading Without Space
