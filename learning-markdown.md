@@ -67,4 +67,15 @@ Ex.
 Let's say you don't want to look at a long URL in the middle of your text document. You can change the text of the link by putting the new text in Brackets [].
 
 Ex. 
-> [Scott's Profile](https://github.com/ScottMarv) 
+> [Scott's Profile](https://github.com/ScottMarv)
+>
+
+
+### Q. How do I Create a List of Items Without Using Numbers?
+
+A. The following three symbols can be used to create unordered lists; The hyphen ( - ), the asterisk ( * ), and the plus symbol ( + )
+
+Ex. 
+> (+) Item
+> (+) Other item
+> (+) Other other item
