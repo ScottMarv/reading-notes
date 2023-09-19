@@ -1,4 +1,4 @@
-# reading-notes
+# Reading Notes
 A place to store reading notes for Code Fellows
 
 ### What is a ***Growth Mindset***?
