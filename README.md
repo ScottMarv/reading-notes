@@ -12,4 +12,4 @@ A place to store reading notes for Code Fellows
 
 -<ins>The outcome will only be as good as the amount of effort you put it</ins>. 
 
--Not everything will be *instant gratification*. Some things take time. 
+-Not everything will be **instant gratification**. Some things take time. 
