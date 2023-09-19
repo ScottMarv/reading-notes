@@ -7,7 +7,7 @@ A. The above quote is from a website dedicated to learning Markdown, but if I ha
 
 ### Q. Why do We Use Markdown?
 
-A. According to the aforementioned website, there are many reasons as to why someone might use Markdown. The two that io recognized as being especially useful were;
+A. According to the aforementioned website, there are many reasons as to why someone might use Markdown. The two that I recognized as being especially useful were;
 1. It's entirely universal. You can utilize Markdown on all operating systems, and from anywhere you can open a text file.
 2. It's "Future-Proof". Even if the text editor you normally use stops working, any other text editor will be able to read and allow you to edit the same file.
 
@@ -22,7 +22,7 @@ Ex.
 >  # Example Heading
 >
 
-If you increase the number of pound symbols in succession, you will get samller and smaller headings. You can have a total of 6 pound symbols in succession.
+If you increase the number of pound symbols in succession, you will get smaller and smaller headings. You can have a total of 6 pound symbols in succession.
 
 Ex.
 > This syntax (###### Small Heading) results in this heading:
@@ -51,7 +51,7 @@ Ex.
 Bolding text is don in the same way, except you will use two ( * ) or ( _ ).
 
 Ex.
-> This syntax ( ** Bold and Beautiful ** ) willm result in **Bold and Beautiful** when spaces are removed.
+> This syntax ( ** Bold and Beautiful ** ) will result in **Bold and Beautiful** when spaces are removed.
 > 
 > This syntax ( __ No Bolder nor Beautiful-er __ ) will result in __No Bolder nor Beautiful-er__ when the spaces are removed.
 >
