@@ -28,6 +28,7 @@ Ex.
 Helpful reminder (at least to me): Don't forget the space after your pound symbols. You'll just end up with a bunch of pound symbols
 ex
 > This syntax ( ####Heading Without Space) has this result:
+> 
 > ####Heading Without Space
 >
 
