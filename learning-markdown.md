@@ -36,4 +36,11 @@ Ex.
 > ####Heading Without Space
 >
 
+### Q. How do you emphasize text through the use of **bold** or *italics*?
 
+A. There are two ways to bold of italicize text. 
+
+To italicize text, you need to add a ( * ) or ( _ ) before and after the text you want italicized.
+
+Ex.
+> This syntax ( * Slanted * ) will result in *Slanted* when I remove the the spaces between the text and (*) 
