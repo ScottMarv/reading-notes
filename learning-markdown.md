@@ -77,5 +77,14 @@ A. The following three symbols can be used to create unordered lists; The hyphen
 
 Ex. 
 > (+) Item
+> 
 > (+) Other item
+> 
 > (+) Other other item
+>
+> When the parentheses around the plus symbol is removed, this list becomes;
+> + Item
+> + Other item
+> + Other other item
+>
+> 
