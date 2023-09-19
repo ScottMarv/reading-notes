@@ -20,4 +20,15 @@ To create the largest heading possible with Markdown, you use one pound symbol f
 >  # Example Heading
 >
 
-If you increase the 
+If you increase the number of pound symbols in succession, you will get samller and smaller headings. You can have a total of 6 pound symbols in succession.
+Ex.
+> This syntax (###### Small Heading) results in this heading:
+> ###### Small Heading
+>
+Helpful reminder (at least to me): Don't forget the space after your pound symbols. You'll just end up with a bunch of pound symbols
+ex
+> This syntax ( ####Heading Without Space) has this result:
+> ####Heading Without Space
+>
+
+
