@@ -62,4 +62,6 @@ Helpful Tip: According to [Markdown Guide](https://www.markdownguide.org/basic-s
 A. Creating a link is really quite simple. Copy and paste the URL of the site you want to link to into your text editor. Then put and open parentheses before the URL, and a closed parentheses after the URL. This will result in a clickable version of the URL.
 
 Ex.
-> This syntax " ( https://github.com/ScottMarv ) " will result in (https://github.com/ScottMarv) when the spaces between the URL and parentheses are removed. 
+> This syntax " ( https://github.com/ScottMarv ) " will result in https://github.com/ScottMarv when the spaces between the URL and parentheses are removed.
+>
+Let's say 
