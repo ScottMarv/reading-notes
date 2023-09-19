@@ -67,4 +67,4 @@ Ex.
 Let's say you don't want to look at a long URL in the middle of your text document. You can change the text of the link by putting the new text in Brackets [].
 
 Ex. 
-> [ Scott's Profile ](https://github.com/ScottMarv) 
+> [Scott's Profile](https://github.com/ScottMarv) 
