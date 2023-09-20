@@ -9,7 +9,7 @@
   
   * `Shifts approach in response to the demands of a changing situation` From year to year, I often use the same curriculum, but I end up having to modify the majority of the activities in order to best suit the current student body.
 
-*Openness
+* Openness
   * `Open to new ideas, processes, and ways of getting things done`. I feel like I'm more than just open, I **love** hearing new ideas and processes. Learning all things I can has been a habit of mine since my youth. This plays into my third strengh.
 
 * Curiosity
