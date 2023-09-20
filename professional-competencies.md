@@ -14,3 +14,17 @@
 
 * Curiosity
   * `Demonstrates a inquisitive and wondering nature that actively digs deep to explore options and solutions`. Testing different avenues to a solutions is fun. In lots of different part of my life, I play games with myself like, "how many different solutions can I come up with to a single problem?", or "How can I solve this in the shortest/longest method possible?". 
+
+
+
+### My Top 3 Areas for Growth
+
+* Networking
+  * This isn't a numbered list, but if it were, this would be number 1. Reaching out to people that I don't already know has always been an issue. My network is pretty small. They are essentially all experts in the same field. We all might have different perspectives, but we're all viewing it from the same lens.
+
+
+* Confidence
+  * As a general rule, I'm pretty self-deprecating. And when I'm alone, it because more aligned with self-critical. I default to others' opinions else I'm 100% positive that my solution is correct. And self advocacy is nearly non-existent.
+
+* Handling Ambiguity
+  * `Functions effectively on limited information and not fully understanding the whole picture.` When I was reading this, it irritated me. It seems so counterintuitive to set off towards a destination, when you don't know what the destination is. 
