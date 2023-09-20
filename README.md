@@ -14,4 +14,8 @@ A place to store reading notes for Code Fellows
 
 -Not everything will be **instant gratification**. Some things take time. 
 
+
+## Classes
+[Lab 01b: Learning Markdown](https://scottmarv.github.io/reading-notes/learning-markdown)
+
 [Scott's Profile](https://github.com/ScottMarv)
